@@ -1,0 +1,8 @@
+Title: Dewey Brain — Cognitive Frugal Intelligence for Edge-Capable LLMs
+
+I released an open RFC called **Dewey Brain**: compressed core (tensor networks), semantic Dewey-like index, hot-swappable LoRA/TN blocks, and a strict continual learning protocol (EWC, replay, canary + bandit). Aiming for edge latency + privacy without losing depth.
+
+Spec + diagram + references: https://github.com/<your-username>/Dewey-Brain
+License: CC BY 4.0 (attribution-friendly)
+
+Feedback welcome—especially from people working on SLMs, TN compression, adapters, and continual learning.

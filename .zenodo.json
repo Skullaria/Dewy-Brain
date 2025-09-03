@@ -1,0 +1,23 @@
+{
+  "title": "Dewey Brain v3.1 \u2014 Hybrid LLM with Compressed Core, Indexed Library, and Strict Relearning Protocol",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "creators": [
+    {
+      "name": "Gilleland, Kristi"
+    }
+  ],
+  "description": "Public RFC and architecture spec for a modular, edge-capable LLM with compressed core, semantic index, hot-swappable library blocks, and a strict continual learning protocol.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "LLM",
+    "compression",
+    "tensor networks",
+    "continual learning",
+    "EWC",
+    "LoRA",
+    "edge AI"
+  ],
+  "related_identifiers": [],
+  "notes": "Includes README, diagram, and references. Replace the DOI in CITATION.cff after Zenodo publishes."
+}

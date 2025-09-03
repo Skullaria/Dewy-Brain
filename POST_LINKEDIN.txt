@@ -1,0 +1,9 @@
+I just published **Dewey Brain** — an architecture for **cognitive frugal intelligence**:
+
+• Compressed core via tensor networks (CompactifAI-style)
+• Semantic “Dewey” index for precise retrieval
+• Hot-swappable LoRA/TN blocks for rare skills/knowledge
+• Strict relearning protocol (EWC, replay, canary set, bandit scheduling)
+
+Repo (spec + diagram + references): https://github.com/<your-username>/Dewey-Brain
+License: CC BY 4.0. Feedback and collaborators welcome.

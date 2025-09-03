@@ -1,0 +1,6 @@
+[Research] Dewey Brain — Modular, Edge-Capable LLM Architecture (RFC)
+
+We propose a compressed core + semantic index + hot-swappable LoRA/TN blocks, maintained by a strict continual learning protocol (EWC, replay, canary + bandit). Targets low-latency edge inference with privacy.
+
+Docs + diagram + references: https://github.com/<your-username>/Dewey-Brain
+Looking for feedback on routing classifier features, hybrid TN choices (Tucker vs TT), and adapter fusion (TIES/DARE).

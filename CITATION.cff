@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Dewey Brain v3.1 — Hybrid LLM with Compressed Core, Indexed Library, and Strict Relearning Protocol
+message: If you use this work, please cite it.
+type: generic
+authors:
+  - family-names: Gilleland
+    given-names: Kristi
+version: "3.1"
+date-released: "2025-08-15"
+keywords:
+  - LLM
+  - compression
+  - tensor networks
+  - continual learning
+  - EWC
+  - LoRA
+  - edge AI
+license: CC-BY-4.0
+repository-code: https://github.com/<your-username>/Dewey-Brain
+doi: 10.5281/zenodo.xxxxxxx
